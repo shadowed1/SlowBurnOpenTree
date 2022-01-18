@@ -1,16 +1,13 @@
-# OpenTree
+# Harder Opentree
 
 A traditional-style tech tree with increased freedom
 
-![tree](https://i.imgur.com/ji1gEjk.png)
+![tree](https://i.imgur.com/E1ttcHp.png)
 
 ## Features
 
-* New game options to choose between a crewed or uncrewed start
-* First launch tech choice = drone, rocket or rover
-* Earlier access to docking ports, RCS, cargo bays, ISRU and turbojets
-* Points of entry to Mk2, Mk3, 2.5m and 3.75m parts from both rocketry and aviation tech lines
-* Balance tested down to 30% science rewards
+* Harder mode means around 30k science is needed for full unlock
+* 0.625 through 5m parts have more segmentation
 
 ## Interactions
 
