@@ -1,6 +1,6 @@
 # Harder OpenTree
 
-A traditional-style tech tree with increased freedom
+A traditional-style tech tree with increased freedom created by sunnypunny
 
 ![tree](https://i.imgur.com/E1ttcHp.png)
 
