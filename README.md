@@ -1,4 +1,4 @@
-# Harder Opentree
+# Harder OpenTree
 
 A traditional-style tech tree with increased freedom
 
