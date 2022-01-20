@@ -1,4 +1,4 @@
-# Harder OpenTree
+# Slow-Burn OpenTree
 
 A slow-burn tech tree for players with Making History and Breaking Ground
 
