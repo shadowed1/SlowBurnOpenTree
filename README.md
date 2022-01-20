@@ -1,13 +1,15 @@
 # Harder OpenTree
 
-A traditional-style tech tree with increased freedom created by sunnypunny
+A slow-burn tech tree for players with Making History and Breaking Ground
 
 ![tree](https://i.imgur.com/E1ttcHp.png)
 
 ## Features
 
-* Harder mode means around 30k science is needed for full unlock
-* 0.625 through 5m parts have more segmentation
+* Playtested with 50% rewards on LunaMultiplayer
+* Harder mode means around 30k science is needed for full unlock of entire tree
+* 1.8m through 5m parts have more segmentation and slower progression
+* Science lab is no longer an easy unlock, forcing players to explore
 
 ## Interactions
 
