@@ -2,7 +2,7 @@
 
 A slow-burn tech tree for players with Making History and Breaking Ground
 
-![tree](https://i.imgur.com/E1ttcHp.png)
+![tree](https://i.imgur.com/5oVFetR.jpg)
 
 ## Features
 
