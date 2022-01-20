@@ -1,13 +1,13 @@
 # Slow-Burn OpenTree
 
-A slow-burn tech tree for players with Making History and Breaking Ground
+A slow-burn tech tree for players with Making History and Breaking Ground. OpenTree was created by sunnypunny: https://github.com/sunnypunny
 
 ![tree](https://i.imgur.com/5oVFetR.jpg)
 
 ## Features
 
 * Playtested down to 40% rewards on LunaMultiplayer
-* Harder mode means around 30k science is needed for full unlock of entire tree
+* Around 30k science is needed for full unlock of entire tree
 * 1.8m through 5m parts have more segmentation and slower progression
 * Science lab is no longer an easy unlock, forcing players to explore
 
@@ -18,3 +18,4 @@ A slow-burn tech tree for players with Making History and Breaking Ground
 * Full integration with the [Community Tech Tree](https://spacedock.info/mod/534/Community%20Tech%20Tree)
 * Progress through the probes tech line to unlock MechJeb modules
 * Mod parts placed automatically based on their location in the stock tree
+* Does not currently support additional mods other than Mechjeb
