@@ -2,7 +2,7 @@
 
 A slow burn tech tree for players with Making History and Breaking Ground. OpenTree was created by sunnypunny: https://github.com/sunnypunny
 
-![tree](https://i.imgur.com/5oVFetR.jpg)
+![tree](https://i.imgur.com/n5IrbBU.jpg)
 
 ## Features
 
