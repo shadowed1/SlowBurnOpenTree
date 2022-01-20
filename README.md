@@ -1,6 +1,6 @@
-# Slow-Burn OpenTree
+# SlowBurn OpenTree
 
-A slow-burn tech tree for players with Making History and Breaking Ground. OpenTree was created by sunnypunny: https://github.com/sunnypunny
+A slow burn tech tree for players with Making History and Breaking Ground. OpenTree was created by sunnypunny: https://github.com/sunnypunny
 
 ![tree](https://i.imgur.com/5oVFetR.jpg)
 
