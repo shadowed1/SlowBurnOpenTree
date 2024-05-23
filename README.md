@@ -5,9 +5,9 @@ A slow burn tech tree for players with Making History and Breaking Ground. For v
 ![tree](https://i.imgur.com/zHote78.jpg)
 
 ## Features
-* Early technology unlocks like propeller aircraft and smaller solid boosters
+* Tech tree is based on real life historical progression
 * Playtested down to 20% rewards on LunaMultiplayer
-* Around 30k science is needed for full unlock of entire tree
+* 56,200 science is needed for full unlock of entire tree
 * 1.8m through 5m parts have more segmentation and slower progression
 * Science lab is no longer an easy unlock, forcing players to explore
 
