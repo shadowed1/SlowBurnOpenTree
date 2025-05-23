@@ -1,6 +1,6 @@
 # SlowBurnOpenTree
 
-A tech tree with DLC support. For veteran players who want a challenge. 
+A slow-paced Tech Tree focusing on Career mode with realistic progression. Making History and Breaking Ground required.
 
 ![tree](https://i.imgur.com/awtLieB.jpeg)
 
