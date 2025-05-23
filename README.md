@@ -2,7 +2,7 @@
 
 A tech tree with DLC support. For veteran players who want a challenge. 
 
-![tree](https://i.imgur.com/zHote78.jpg)
+![tree](https://i.imgur.com/bs0cuE1.jpeg)
 
 ## Features
 * Tech tree is based on real life historical progression
