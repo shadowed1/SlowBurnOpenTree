@@ -2,7 +2,7 @@
 
 A tech tree with DLC support. For veteran players who want a challenge. 
 
-![tree](https://i.imgur.com/bs0cuE1.jpeg)
+![tree](https://i.imgur.com/awtLieB.jpeg)
 
 # Features:
 
